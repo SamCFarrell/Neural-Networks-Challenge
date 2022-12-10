@@ -82,4 +82,3 @@ To do so, complete the following steps:
 
 ---
 
-Copyright 2022 2U. All Rights Reserved.
